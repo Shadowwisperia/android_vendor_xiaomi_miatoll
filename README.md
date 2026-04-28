@@ -1,1 +1,1 @@
-# android_vendor_xiaomi_miatoll
+# Vendor For Miatoll Devices
